@@ -1,7 +1,7 @@
 <?php
 class Cirkel extends Figuur
 {
-    // private $r = 5;
+    private $r = 5;
     public function __construct($r)
     {
         $this->r = $r;

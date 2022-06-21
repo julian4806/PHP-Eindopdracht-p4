@@ -1,7 +1,7 @@
 <?php
 class Vierkant extends Figuur
 {
-    // private $x;
+    private $x;
     public function __construct($x)
     {
         $this->x = $x;

@@ -1,8 +1,8 @@
 <?php
 class Cilinder extends Figuur
 {
-    // private $h = 10;
-    // private $r = 3;
+    private $h = 10;
+    private $r = 3;
 
     public function __construct($h, $r)
     {
